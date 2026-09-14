@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="600" height="600">
+  <defs>
+    <path id="topArc" d="M 15,100 A 85,85 0 0 1 185,100" fill="none"/>
+    <path id="botArc" d="M 15,100 A 85,85 0 0 0 185,100" fill="none"/>
+  </defs>
+  <g fill="#5B458C" stroke="#5B458C">
+    <circle cx="100" cy="100" r="96" fill="none" stroke-width="3.5"/>
+    <circle cx="100" cy="100" r="74" fill="none" stroke-width="1"/>
+    <text font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="10" letter-spacing="0.6" fill="#5B458C">
+      <textPath href="#topArc" startOffset="50%" text-anchor="middle">QUINCOM ECOMMERCE - FZCO</textPath>
+    </text>
+    <text font-family="Arial, sans-serif" font-weight="700" font-size="10" fill="#5B458C" direction="rtl">
+      <textPath href="#botArc" startOffset="50%" text-anchor="middle">للتجارة الإلكترونية</textPath>
+    </text>
+    <text x="100" y="96" text-anchor="middle" font-family="Arial" font-weight="700" font-size="10" letter-spacing="0.4" fill="#5B458C">LIC 47697</text>
+    <text x="100" y="114" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" letter-spacing="0.5" fill="#5B458C">DUBAI-UAE</text>
+  </g>
+</svg>
